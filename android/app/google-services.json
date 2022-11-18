@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573392166975",
+    "firebase_url": "https://nusacation-default-rtdb.firebaseio.com",
+    "project_id": "nusacation",
+    "storage_bucket": "nusacation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573392166975:android:09e0b9f0058b3fb565d88a",
+        "android_client_info": {
+          "package_name": "com.avifycom.nusacation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573392166975-7jd28rc6anagiltu2m6btlqgli68knd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzu8roHCsPHqLn3Dh_mxa9KgduPJ1w2wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573392166975-7jd28rc6anagiltu2m6btlqgli68knd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
